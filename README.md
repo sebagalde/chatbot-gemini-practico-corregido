@@ -1,7 +1,7 @@
 ## Objetivo del proyecto
 Este proyecto implementa un chatbot de consola escrito en Python, utilizando una arquitectura modular. Su propósito principal es demostrar cómo organizar un asistente conversacional que:
 
-- Utiliza un cliente del modelo de lenguaje de Google Gemini (`google-generativeai`) para procesar las entradas del usuario.  
+- Utiliza un cliente del modelo de lenguaje de Google Gemini (`google-generativeai`) para procesar las entradas del usuario.
 - Mantiene memoria de la conversación para recordar turnos anteriores.
 - Define y utiliza diferentes roles y prompts (Profesor, Traductor, Programador, Asistente) para personalizar la interacción del modelo.
 
